@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curious Cats - Fatos Aleatórios sobre Gatos</title>
+    <link rel="stylesheet" href="static/style/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Pegadas decorativas -->
+        <div class="patas">
+            <img src="static/assets/laterais.png" alt="" class="laterais">
+        </div>
+
+        <!-- Cabeçalho -->
+        <header class="header">
+            <h1 class="bemvindo">Bem vindo ao</h1>
+            <div class="logo">
+                <div class="imglogo">
+                    <img src="static/assets/logo.png" alt="" class="logo">
+                </div>
+                <div class="title-section">
+                    <h2 class="curious">CURIOUS</h2>
+                    <h2 class="cats">CATS</h2>
+                </div>
+            </div>
+            <p class="subtitle">PROCURE FATOS ALEATÓRIOS SOBRE GATOS</p>
+        </header>
+
+        <!-- Seção de busca -->
+        <div class="search-section">
+            <div class="search-container">
+                <input type="text" class="search-input" placeholder="Clique para descobrir um fato sobre gatos..." readonly>
+                <button class="search-button" id="searchBtn">
+                    <div class="search-icon">
+                        <img src="/static/assets/pesquisa.png" alt="">
+                    </div>
+                </button>
+            </div>
+        </div>
+
+        <!-- Cards de fatos -->
+        <div class="facts-container">
+            <div class="fact-card" id="card1">
+                <div class="card-number">1.</div>
+                <div class="card-content" id="fact1">Clique no botão de busca para descobrir fatos incríveis sobre gatos!</div>
+            </div>
+            <div class="fact-card" id="card2">
+                <div class="card-number">2.</div>
+                <div class="card-content" id="fact2">Cada clique traz uma nova curiosidade felina.</div>
+            </div>
+            <div class="fact-card" id="card3">
+                <div class="card-number">3.</div>
+                <div class="card-content" id="fact3">Prepare-se para se surpreender com o mundo dos gatos!</div>
+            </div>
+        </div>
+
+        <!-- Loading indicator -->
+        <div class="loading" id="loading" style="display: none;">
+            <div class="loading-spinner"></div>
+            <p>Buscando fatos sobre gatos...</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
