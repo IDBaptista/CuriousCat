@@ -8,12 +8,7 @@ Foi desenvolvido individualmente e foi criado a CuriousCat, uma plataforma inter
 # IMAGENS E LINKS
 
 ## DESENVOLVIMENTO:
-![print sejabemvindo](/static/assets/sejabemvindo.png)
-![print nós](/static/assets/nós.png)
-![print seguranca](/static/assets/segurança.png)
-![print comoinvestir](/static/assets/comoinvestir.png)
-![print investimentos](/static/assets/investimentos.png)
-![print simular](/static/assets/simular.png)
+![print pagina](/static/assets/sejabemvindo.png)
 
 Links
 > [Protótipo](https://www.canva.com/design/DAG0jIj_9HY/VuHUVtgmeN09f-r4Br1oeQ/view?utm_content=DAG0jIj_9HY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51d1627954)
