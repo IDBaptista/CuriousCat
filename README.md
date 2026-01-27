@@ -8,7 +8,7 @@ Foi desenvolvido individualmente e foi criado a CuriousCat, uma plataforma inter
 # IMAGENS E LINKS
 
 ## DESENVOLVIMENTO:
-![print pagina](/static/assets/sejabemvindo.png)
+![print pagina](/static/assets/pagina.png)
 
 Links
 > [Protótipo](https://www.canva.com/design/DAG0jIj_9HY/VuHUVtgmeN09f-r4Br1oeQ/view?utm_content=DAG0jIj_9HY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51d1627954)
