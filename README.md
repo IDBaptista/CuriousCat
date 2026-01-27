@@ -16,7 +16,8 @@ Foi desenvolvido individualmente e foi criado a CuriousCat, uma plataforma inter
 ![print simular](/static/assets/simular.png)
 
 Links
-> [Protótipo](https://www.canva.com/design/DAGWd0iwLqs/dR-x1w_g0sgkz82WUltldQ/view?utm_content=DAGWd0iwLqs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4812761b38)
+> [Protótipo](https://www.canva.com/design/DAG0jIj_9HY/VuHUVtgmeN09f-r4Br1oeQ/view?utm_content=DAG0jIj_9HY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51d1627954)
 
 > [Site Renderizado](https://investimento-2.onrender.com/)
+
 > [API Utilizada](https://github.com/wh-iterabb-it/meowfacts)
